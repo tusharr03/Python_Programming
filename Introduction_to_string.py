@@ -13,3 +13,9 @@ at a time
 '''
 print(Str_4)
 print(Str_1[0:4]) #Prints the string from the index 0 to 4 (excluding character at index 4)
+print(Str_1[1:-1]) #Prints whole string excluding first and last index of the string 
+
+#concatenation of strings
+
+#prints a formatted string
+print(f"Length of Str_1 is: {len(Str_1)}")
